@@ -59,7 +59,5 @@ The model was successfully trained and tested, achieving good accuracy in predic
 
 ## 📌 Author
 
-Tina Agrawal
-
 **Tina Agrawal**
 
